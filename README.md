@@ -1,15 +1,6 @@
-CS 475 Assignment-3 
-  
-Animation  
+# Musical Box
 
 Video link - https://youtu.be/AQkbWkEoZoE 
-
-Shreyas Pimpalgaonkar - 160050024 
-Saiteja Nangunoori - 160050089 
- 
- 
-The assignment is our own work and we have not copied it from anywhere 
- 
  
 Interface for saving frame - press the key '5' to append the current parameters into the file. Only the parameters that have been changed are added to the file. 
  
