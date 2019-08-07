@@ -1,0 +1,45 @@
+Keys used for various degrees of freedom :
+
+0 - camera
+1 - home
+2 - human
+3 - cat
+4 - box
+
+Enter camera,home(root node),human,cat,box mode using 0,1,2,3,4 respectively
+
+p for perspective view
+o for box open and close
+
+After entering the particular mode use :
+
+for Human:
+s shoulder 
+e elbow	   
+w wrist    
+h hip          
+a ankle
+k knee
+n neck
+t torso1
+r torso2
+u torso3
+press corresponding key again to toggle between left and right for shoulder,elbow,wrist,hip,ankle,knee 
+
+for Cat: 
+t tail
+l legs
+f paws
+press corresponding key again and again to toggle between four different legs and paws
+press t again and again to toggle between the three parts of tail  
+
+for Camera:
+R rotation
+T translation
+   
+Left		decrease in y
+Right		increase in y
+Up			decrease in x
+Down		increase in x
+Page Up		decrease in z
+Page Down	increase in z
